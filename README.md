@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/cartoonhangover-cartoons-bravestwarriors-836HiJc7pgzy8iNXCn">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsaha11&label=Profile%20views&color=0e75b6&style=flat" alt="tsaha11" /> </p>
 
-- 🔭 I’m currently working on [Codehub](https://codehub.cyclic.app/) & [Think-Tank-Trivia] (https://think-tank-trivia.vercel.app/)
+- 🔭 I’m currently working on [Codehub](https://codehub.cyclic.app/) & [Think-Tank-Trivia](https://think-tank-trivia.vercel.app/)
 
 - 🌱 I’m currently learning **Data Structure & Algorithm and Web Development**
 
