@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithm and Web Development**
 
-- 💬 Ask me about **HTML, CSS, JS, Node JS, MONGO DB**
+- 💬 Ask me about **HTML, CSS, JS, ReactJS, NextJS, Node JS, MONGO DB**
 
 - ⚡ Fun fact **I code for fun**
 
